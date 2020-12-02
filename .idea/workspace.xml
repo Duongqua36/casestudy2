@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b8bc994-85eb-4f27-b76c-740c27e340c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/casestudy2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CASE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game" beforeDir="false" afterPath="$PROJECT_DIR$/CASE/the_car_racing_game" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/CarController.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/RandomCar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/VehicleHit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/audio/nhac.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/audio/nhac1.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/car.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/CASE/the_car_racing_game/demo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/game-board.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/game.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/img/anh1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/img/nah.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CASE/the_car_racing_game/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/road.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASE" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +32,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/casestudy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -104,6 +87,7 @@
       <workItem from="1606881889328" duration="998000" />
       <workItem from="1606890984197" duration="39000" />
       <workItem from="1606891122614" duration="609000" />
+      <workItem from="1606892558459" duration="284000" />
     </task>
     <servers />
   </component>
@@ -119,9 +103,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1606708959855" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1606891972262">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1606892843438">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606891972262" />
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606892843438" />
   </component>
 </project>
