@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b8bc994-85eb-4f27-b76c-740c27e340c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/casestudy2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CASE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game" beforeDir="false" afterPath="$PROJECT_DIR$/CASE/the_car_racing_game" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/CarController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/RandomCar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/VehicleHit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/audio/nhac.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/audio/nhac1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/car.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/CASE/the_car_racing_game/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/game-board.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/game.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/img/anh1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/img/nah.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CASE/the_car_racing_game/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASE/the_car_racing_game/road.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CASE/the_car_racing_game" />
+  </component>
+  <component name="ProjectId" id="1khECAZi8zWPwRpyK1XL9IEE7WW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/casestudy" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\casestudy2\CASE" />
+      <recent name="C:\casestudy2\CASE\the_car_racing_game" />
+      <recent name="C:\casestudy2\game" />
+      <recent name="C:\casestudy2\CASE\the_car_racing_game\img" />
+      <recent name="C:\casestudy2\CASE\the_car_racing_game\game-js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b8bc994-85eb-4f27-b76c-740c27e340c7" name="Default Changelist" comment="" />
+      <created>1606144292820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606144292820</updated>
+      <workItem from="1606144293961" duration="2497000" />
+      <workItem from="1606185736176" duration="160000" />
+      <workItem from="1606189976967" duration="27000" />
+      <workItem from="1606310378501" duration="6411000" />
+      <workItem from="1606352006790" duration="606000" />
+      <workItem from="1606359701418" duration="1783000" />
+      <workItem from="1606394233911" duration="5596000" />
+      <workItem from="1606436883710" duration="1268000" />
+      <workItem from="1606443319735" duration="1066000" />
+      <workItem from="1606445074559" duration="3367000" />
+      <workItem from="1606459036199" duration="2294000" />
+      <workItem from="1606484002825" duration="1521000" />
+      <workItem from="1606541939352" duration="39000" />
+      <workItem from="1606622560562" duration="603000" />
+      <workItem from="1606625983180" duration="68000" />
+      <workItem from="1606652765216" duration="382000" />
+      <workItem from="1606653205812" duration="871000" />
+      <workItem from="1606697268759" duration="1450000" />
+      <workItem from="1606704198478" duration="6632000" />
+      <workItem from="1606718609991" duration="8555000" />
+      <workItem from="1606744612705" duration="607000" />
+      <workItem from="1606827766673" duration="2789000" />
+      <workItem from="1606870369535" duration="8646000" />
+      <workItem from="1606881667649" duration="95000" />
+      <workItem from="1606881806118" duration="68000" />
+      <workItem from="1606881889328" duration="998000" />
+      <workItem from="1606890984197" duration="39000" />
+      <workItem from="1606891122614" duration="609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="130" key="#Web_Browsers" timestamp="1606708742962">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="436" y="130" key="#Web_Browsers/0.0.1280.680@0.0.1280.680" timestamp="1606708742962" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606708959855">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1606708959855" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1606891972262">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606891972262" />
+  </component>
+</project>
