@@ -1,5 +1,5 @@
 export default class RandomCar{
-    constructor(game){
+    constructor(game){ // xe ngau nhien
         this.game = game;
         this.context = this.game.context;
         this.car2 = new Image;

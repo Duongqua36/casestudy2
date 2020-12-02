@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b8bc994-85eb-4f27-b76c-740c27e340c7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CASE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/RandomCar.js" beforeDir="false" afterPath="$PROJECT_DIR$/game/RandomCar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/car.js" beforeDir="false" afterPath="$PROJECT_DIR$/game/car.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CASE/the_car_racing_game" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1khECAZi8zWPwRpyK1XL9IEE7WW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -88,6 +89,7 @@
       <workItem from="1606890984197" duration="39000" />
       <workItem from="1606891122614" duration="609000" />
       <workItem from="1606892558459" duration="284000" />
+      <workItem from="1606892852448" duration="4083000" />
     </task>
     <servers />
   </component>

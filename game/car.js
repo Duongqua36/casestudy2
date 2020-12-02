@@ -1,4 +1,4 @@
-export default class Car {
+    export default class Car {
     constructor(game) {
         this.game = game;
         this.context = this.game.context;
