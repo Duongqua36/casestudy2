@@ -4,26 +4,32 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <style>
-        canvas {
-            background-color: black;
+
+        #StartBtn {
+            background-color: red;
+            text-decoration: none;
+            margin: 0px auto;
+            font-size: 50px;
+            border: 2px solid ;
+            padding: 10px;
+            border-radius: 25px
+        }
+        a {
             position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
+            left: 575px;
+            top: 520px;
+
         }
     </style>
-    <script src="game/game-board.js" type="module"></script>
 </head>
-<body>
+<body style="background-color: pink">
+<marquee> CHỬ ĐỨC DƯƠNG [C1020G2]💗 </marquee>
+    <div id="Welcome">
+        <img src="img/anh-nen1.jpg" style="width:1350px ;height :640px ">
+        <a id="StartBtn" href="game.html" onclick="Welcome">
+            Start </a>
 
-<img src="img/anh-nen2.jpg" alt ="anh_phong_canh" style=" height:840px;width:1220px"/>
-<canvas id="canvas" width="512" height="850" style="border: solid black"></canvas>
+    </div>
 </body>
 
 </html>
-
-<audio autoplay>
-    <source src="audio/nhac2.mp3" >
-    <source src="audio/nhac2.mp3" >
-    Your browser does not support the audio element.
-</audio>

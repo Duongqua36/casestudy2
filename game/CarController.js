@@ -9,10 +9,10 @@ export default class CarController{
     init(){
         document.addEventListener("keydown", (e)=>{
             switch(e.keyCode){
-                case 37: // left arrow key
+                case 37: // phím mũi tên trái
                     this.car.moveLeft();
                     break;
-                case 39: // right arrow key
+                case 39: // phím mũi tên phải
                     this.car.moveRight();
                     break;
                 case 38:
